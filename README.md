@@ -34,7 +34,7 @@ Pass your desired birthday date as props from index.js file to Countdown Compone
 ![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
 
 
-To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
+To view a live example, **[click here](https://elastic-goodall-283c62.netlify.app)**
 
 
 
